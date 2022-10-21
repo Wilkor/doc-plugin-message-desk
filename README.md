@@ -28,3 +28,8 @@ Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o pl
   # Atendimento
  
   Uma vez configurado a sessão de **Configuração**, nesta sessão você poderá enviar uma mensagem para todos os clientes que estão na fila de atendimento. Ideal para passar um recado ao clientes que possam estar aguardando um tempo maior para serem atendidos.
+  
+  
+  Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
+ 
+ Email: contato@pontoparse.net

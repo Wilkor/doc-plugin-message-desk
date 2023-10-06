@@ -3,33 +3,35 @@
 ![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
 
 
-# Como utilizar a extensão Message Desk!
+# Como utilizar a extensão Message to queue!
 
 Muito simples, basta seguir o passo a passo abaixo para ativar e configurar o plugin:
 
  - Ao lado de Home na tela principal, clique em Blip Store, depois no menu lateral, clique em extensões;
- - Procure por **Message Desk** e clique em ativar (Instalar em seu bot Roteador/Router);
+ - Procure por **Message to queue** e clique em ativar (Instalar em seu bot Roteador/Router);
  - Após instalado o plugin, siga os passos abaixo;
  
- # Como configurar?
- 
- Para você conseguir enviar uma mensagem para os clientes que estão na fila de atendimento, primeiramente precisará fazer as seguintes configurações:
- 
- - No menu principal do plugin **(Configuração)** adicione a chave HTTP do seu chatbot de atendimento
- - Depois clique em **Salvar**
-
-
- # BlipDesk
- Para que essa aba funcione corretamente e você consiga enviar uma mensagem para todos que estão conectados ao BlipDesk, primeiramente você precisar instalar o plugin abaixo no Google Chrome:
- https://chrome.google.com/webstore/detail/plugin-desk/bmjjlaomahkobdcmgnbihomlipaoolnh?hl=pt-BR
- 
- Feito isso, no item **Contas Ativas** irá aparecer o Nome/Email das pessoas que estão usando o BlipDesk, sendo assim, quando você digitar uma mensagem e clicar em **Enviar Mensagem** seus atendentes irão receber uma notificação em **tempo real**! Ideal para passar uma aviso urgente ao pessoal do atendimento.
- 
   # Atendimento
- 
-  Uma vez configurado a sessão de **Configuração**, nesta sessão você poderá enviar uma mensagem para todos os clientes que estão na fila de atendimento. Ideal para passar um recado ao clientes que possam estar aguardando um tempo maior para serem atendidos.
+
+  Após instalado a extensão, no item de atendimento, você irá selecionar o seu chatbot de atendimento, e em seguinda enviar mensagems para todos as pessoas que estão aguardando o atendimento.
+
+  **OBS**: Receberão essas mensagems clientes que não ultrapassaram as 24h de janela do WhatsApp
   
+- Tela inicial:
+
+ ![image](https://github.com/Wilkor/doc-plugin-message-desk/assets/34819624/2278c0c4-7c7d-4dac-bf37-6a64771c3f76)
+
+- Selecionando chatbot de atendimento e disparando mensagem
   
-  Em caso de duvidas, você pode entrar em contato conoscos para tirar qualquer tipo de duvida sobre a configuração da extensão
- 
+ ![image](https://github.com/Wilkor/doc-plugin-message-desk/assets/34819624/2393f8f2-18b4-46d5-9973-94fb83b1cad1)
+
+- Tela de monitoramento
+
+![image](https://github.com/Wilkor/doc-plugin-message-desk/assets/34819624/d1ad1ee1-5d84-4ee4-8475-decfdbfbfcb5)
+
+- Confirmação de recebimento da mensagem em tempo de fila
+
+![image](https://github.com/Wilkor/doc-plugin-message-desk/assets/34819624/9d96e718-dee9-4109-8679-58a3f5159656)
+
+
  Email: contato@pontoparse.net

@@ -1,7 +1,5 @@
 
-
-![N|Solid](https://raw.githubusercontent.com/Wilkor/img-clonebots/main/logoParseHorizontal.jpeg)
-
+![icone_github](https://github.com/Wilkor/doc-plugin-message-desk/assets/34819624/48a84838-a91c-4b07-994c-9015421f0105)
 
 # Como utilizar a extensão Message to queue!
 

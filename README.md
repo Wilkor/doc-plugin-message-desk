@@ -9,9 +9,8 @@ A extensão **Message to Queue (Message Desk)** permite transmitir avisos, comun
 ---
 
 ### 1. Vídeo demonstrativo
-Assista à demonstração prática diretamente no seu ambiente Blip após a instalação da extensão.
+Esta extensão não possui vídeos ainda.
 
-*(Confira o disparo em massa para clientes na fila de espera e o painel de monitoramento)*
 
 ### 2. Introdução
 O **Message to Queue** é ideal para informar clientes em espera sobre imprevistos, tempo estimado de fila ou avisos institucionais enquanto aguardam a transferência para um atendente.
